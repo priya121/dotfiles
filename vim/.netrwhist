@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/priya10487/Desktop/koans'
+let g:netrw_dirhist_2='/Users/priya10487/Desktop/Work'
+let g:netrw_dirhist_3='/Users/priya10487/Desktop/Work/stack/lib'
+let g:netrw_dirhist_4='/Users/priya10487/Desktop/Work/Blog/15April.txt'
+let g:netrw_dirhist_5='/Users/priya10487/Desktop/Work/intro-to-modern-cs/most_frequent_letter/lib'
