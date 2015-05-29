@@ -7,3 +7,6 @@
 [submodule "vim/bundle/vimux"]
 	path = vim/bundle/vimux
 	url = https://github.com/benmills/vimux
+[submodule "vim/bundle/vim-endwise"]
+	path = vim/bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise
